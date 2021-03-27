@@ -70,6 +70,16 @@ Add starting script to package.json (add to existing scripts entry):
 }
 ```
 
+Start the server:
+
+```
+npm start
+```
+
+Open your browser to http://localhost:3000 and you should be good to go!
+
+## Adding automatic reload
+
 The above is all you need to get started. Below is an explanation of adding
 automatic reloading when you make a change to your code.  This is highly
 recommended and will save you tons of time during development. 
